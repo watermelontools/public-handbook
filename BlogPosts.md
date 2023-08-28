@@ -10,4 +10,4 @@
 8. Each picture must be under 200kB. 
 9. Then start by writing a draft. The best way to do so is with Google Docs. This way it's very easy for someone else in the team to do a blog post review (analogous to the way we also do code review).
 10. Once the blog post is approved, publish it on Webflow. If you don't have access to Webflow, please contact Esteban Vargas. 
-11. Cross post on Medium, Hashnode and Dev.to. Make sure to add the cannonical URL. 
+11. Cross post on Medium, Hashnode and Dev.to. Make sure to add the cannonical URL. About this: If you import to Medium, Medium automatically adds the canonical. If you import to Dev.to, you have to add it manually. If you import from Dev.to to Hashnode (easiest way to import to Hashnode), it automatically adds the canonical as well. 
