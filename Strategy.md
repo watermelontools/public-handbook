@@ -1,6 +1,6 @@
 # Strategy
 
-**Watermelon is an Open Source Copilot For Code Review**. Our GitHub application allows developers to pre-review GitHub Pull Requests by tracing their code context and performing static code analysis. Using LLMs to detect errors, compare intent to implementation, and give the PR a first health check.
+**Watermelon is an Open Source Copilot For Code Review**. Our GitHub application assists developers by pre-screening GitHub Pull Requests. It traces code context and performs static code analysis. By using LLMs, it can detect errors, compare intent to implementation, and provide the PR with an initial health check.
 
 Our much more bigger vision is to build a copilot for engineering leaders. 
 
@@ -11,7 +11,7 @@ For large software engineering teams that spend a lot of time on code reviews, w
 
 Developers spend 30% of their time doing code review. Despite that, code that doesn't satisfy the business requirements still gets deployed to production. Non-technical stakeholders can help with this (product managers and designers), but 50% of them claim that the code review process it too technical and complex for them. There is a gap in the world. 
 
-We want to fill this gap and that's why we've built a GitHub application to expedite and contextualize the code review process. Our product pre-reviews PRs by comparing intent to implementation, and by running static code analysis to detect errors. All of this by tracing code context relevant to the PR being analyzed. 
+We want to fill this gap and that's why we've built a GitHub application to expedite and contextualize the code review process. Our product pre-reviews PRs by comparing intent to implementation, connecting services used in the team, and by running static code analysis to detect errors. All of this by tracing code context relevant to the PR being analyzed. 
 
 ## Business Model
 We want to be as open as possible while still ensuring the long-term profitability of our business. This likely points to an "open core" approach, where some features are open-source and others are proprietary but available to view in the source.
