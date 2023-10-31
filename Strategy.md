@@ -22,4 +22,6 @@ As for when these components will be publicly available, we're still figuring th
 - Marketplaces of existing platforms (currenlty the GitHub marketplace and the GitLab and Atlassian marketplaces in the future)
 - Content marketing (posting educational content for devs on Hacker News, Reddit, Hashnode, etc. aka. Technical writing)
 - SEO (as we keep doing content marketing, we increase our Domain Authority which correlates to organic traffic).
+- Tech conferences and webinars.
 - Engineering as marketing (our IDE extensions)
+- We are also running experiments with paid ads, social media videos, and cold-emailing. 
