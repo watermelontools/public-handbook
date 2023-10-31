@@ -14,9 +14,9 @@ Developers spend 30% of their time doing code review. Despite that, code that do
 We want to fill this gap and that's why we've built a GitHub application to expedite and contextualize the code review process. Our product pre-reviews PRs by comparing intent to implementation, and by running static code analysis to detect errors. All of this by tracing code context relevant to the PR being analyzed. 
 
 ## Business Model
-Our product is source-available. As developers ourselves we understand this: We simply prefer to install products that are open instead of those that are closed. 
+We want to be as open as possible while still ensuring the long-term profitability of our business. This likely points to an "open core" approach, where some features are open-source and others are proprietary but available to view in the source.
 
-Right now we're in the process of experimenting with different price points. 
+As for when these components will be publicly available, we're still figuring that out. Currently, we're testing different pricing models by making the entire repository available under an Apache License with a Commons Clause. But above all, our main, short-term focus is on delivering the best product possible.
 
 ## Go-to-market
 - Marketplaces of existing platforms (currenlty the GitHub marketplace and the GitLab and Atlassian marketplaces in the future)
