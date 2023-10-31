@@ -7,14 +7,14 @@ Our much more bigger vision is to build a copilot for engineering leaders.
 Openness is one of our values. We think that a company should be as open as possible. Not just the code, but also its strategy and its know-how. 
 
 ## Product
-Our passive documentation search engine tailors to both individual contributors and engineering leaders (teams). 
+For large software engineering teams that spend a lot of time on code reviews, we provide a CI/CD app to expedite and contextualize the code review process. 
 
-Our IDE extension is our individual contributor-oriented product. Our philosophy is to provide individuals a 100% free and open-source product. 
+Developers spend 30% of their time doing code review. Despite that, code that doesn't satisfy the business requirements still gets deployed to production. Non-technical stakeholders can help with this (product managers and designers), but 50% of them claim that the code review process it too technical and complex for them. There is a gap in the world. 
 
-Our GitHub application is our engineering leader-oriented product. We're charging for unlimited use for this product and its proprietary features, while still making this codebase source-available. 
+We want to fill this gap and that's why we've built a GitHub application to expedite and contextualize the code review process. Our product pre-reviews PRs by comparing intent to implementation, and by running static code analysis to detect errors. All of this by tracing code context relevant to the PR being analyzed. 
 
 ## Business Model
-We are an open-core startup. What this means is that we have a dual licensing strategy as described above. As developers ourselves we understand this: We simply prefer to install products that are open instead of those that are closed. 
+Our product is source-available. As developers ourselves we understand this: We simply prefer to install products that are open instead of those that are closed. 
 
 Right now we're in the process of experimenting with different price points. 
 
