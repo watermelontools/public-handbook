@@ -19,11 +19,7 @@ We are an open-core startup. What this means is that we have a dual licensing st
 Right now we're in the process of experimenting with different price points. 
 
 ## Go-to-market
-IDE extension
-- Marketplaces of existing platforms (IDE marketplaces)
+- Marketplaces of existing platforms (currenlty the GitHub marketplace and the GitLab and Atlassian marketplaces in the future)
 - Content marketing (posting educational content for devs on Hacker News, Reddit, Hashnode, etc. aka. Technical writing)
 - SEO (as we keep doing content marketing, we increase our Domain Authority which correlates to organic traffic).
-
-CI/CD app
-- Same strategy as the IDE extension
-- We're also figuring out a UX that will convert IDE users into CI/CD users. 
+- Engineering as marketing (our IDE extensions)
