@@ -1,6 +1,6 @@
 # Strategy
 
-**Watermelon is a Passive Documentation Search Engine** serving both our GitHub app and IDE extension. Our set of plug-ins help developers understand code context, improve their coding velocity and merge PRs like a breeze.
+**Watermelon is an Open Source Copilot For Code Review**. Our GitHub application allows developers to pre-review GitHub Pull Requests by tracing their code context and performing static code analysis. Using LLMs to detect errors, compare intent to implementation, and give the PR a first health check.
 
 Our much more bigger vision is to build a copilot for engineering leaders. 
 
