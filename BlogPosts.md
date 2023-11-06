@@ -4,7 +4,7 @@
 2. [Make the blog post title a controversial take](https://handbook.opencoreventures.com/marketing-branding#50ba0c4eb9f140b29f93bff771e9f0ef). The title must also include the keyword. 
 3. Title must be between 50 and 60 characters
 4. Description of the article must be less than 150 characters.
-5. A blog post must be at least 800 words
+5. A blog post must be at least 800 words (about two pages in Google Docs)
 6. A blog post must have at least 6 sections
 7. The keyword must appear on the body of the blog post at least 12 times.
 8. Each picture must be under 200kB. 
