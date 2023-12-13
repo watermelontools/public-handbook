@@ -5,6 +5,7 @@ We use a video strategy to push the blog posts. They are not yet independent con
 ## Recording
 Use good quality equipment, a good mic, a quiet space or moment. 
 Be original and make it natural.
+Be a little contrarian, never offensive.
 Try to stay under 1 minute.
 
 ## Editing
