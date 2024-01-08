@@ -27,3 +27,13 @@ We can push a few other things but don't fret about it.
 
 ## Tactics
 We have to create content, hopefully quality content that trends. Remember each platform is different, and although 𝕏 allows for long form, it's probably not the best for every post.
+
+### Blog
+
+### 𝕏
+
+### LinkedIn
+
+### Youtube
+
+### TikTok
