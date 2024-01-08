@@ -26,14 +26,29 @@ This takes the lowest priority in the ranking, being an afterthought even. We li
 We can push a few other things but don't fret about it.
 
 ## Tactics
-We have to create content, hopefully quality content that trends. Remember each platform is different, and although 𝕏 allows for long form, it's probably not the best for every post.
+We have to create content, hopefully quality content that trends. Remember each platform is different, and although 𝕏 allows for long form, it's probably not the best for every post, extend for all platforms.
 
 ### Blog
+This is one of our favorite, as it's the one we control the most. To create a new blog post, [read our guide](https://github.com/watermelontools/public-handbook/blob/growth/BlogPosts.md), and to publish, got to [Webflow](https://watermelon-2023.design.webflow.com/). Now, to make it attractive, we use different platforms. It's all on the guide.
+
+One of the nicest things of writing blog posts is that we get SEO, increasing our score (currently around 35).
+
+The current voice of the blogs is serious, but you can still feel the author voice.
+
+### Newsletter 
+
+No current tactics other than the monthly update.
 
 ### 𝕏
+This platform suffers from the brevity of it's reach. An amazing post will trend up a few hours, and can trend for any number of reasons. The current voice of the platform is kind of acid, usually mocking our team.
 
 ### LinkedIn
 
+No tactics right now.
 ### Youtube
 
+Abandoned platform.
+
 ### TikTok
+
+Testing short content seems to work. Very personal from the author.
