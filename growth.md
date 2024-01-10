@@ -1,5 +1,5 @@
 # Growth
-Growth is a multimodal, very brittle thing. Every time we start focusing on something, all the other channels suffer, but ultimately, making the company grow is one of the main target of the whole organization.
+Growth is a multimodal, very brittle thing. Every time we start focusing on something, all the other channels suffer, but ultimately, making the company grow is one of the main target of the whole organization. Don't get discouraged, success in one channel will push others, stay sharp!
 
 We could think growth as a series of different metrics, but we focus on bringing in new users, expansion of use and brand awareness only. Our main goal is to get poeple to install the [GitHub App](https://github.com/marketplace/watermelon-context) and use it by sending PRs and updating them.
 
