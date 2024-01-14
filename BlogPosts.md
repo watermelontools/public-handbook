@@ -5,7 +5,7 @@
 3. Title must be between 50 and 60 characters
 4. Description of the article must be less than 150 characters.
 5. A blog post must be at least 800 words (about two pages in Google Docs)
-6. A blog post must have at least 6 sections
+6. A blog post must have at least 6 sections. We recommend extensive use of H2, H3 and H4 titles to help with this.
 7. The keyword must appear on the body of the blog post at least 12 times.
 8. Each picture must be under 200kB. 
 9. Then start by writing a draft. The best way to do so is with Google Docs. This way it's very easy for someone else in the team to do a blog post review (analogous to the way we also do code review).
